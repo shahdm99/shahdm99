@@ -31,3 +31,15 @@
 </div>
 
 ###
+
+<h3 align="center">📌 Projects</h3>
+
+###
+
+<p align="left">🔹 Project 1: Data Center Network Design & Security<br>Description: Designed a secure data center network with advanced security protocols to protect data and communications.<br>Technologies Used: Cisco Packet Tracer, VLAN.</p>
+
+###
+
+<p align="left">Project 2: Wi-Fi Scanner<br>Description: A web-based tool for scanning Wi-Fi networks, detecting open ports, and managing connected devices.<br>Technologies Used: HTML, CSS, JavaScript, Python, Nmap, Scapy<br>Details: Developed an application that scans networks, identifies connected devices, detects security vulnerabilities, and provides encryption details to assess network security levels.</p>
+
+###
